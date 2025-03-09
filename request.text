@@ -1,0 +1,4 @@
+Flask==3.1.0
+pywebview==5.4
+numpy==2.2.3
+jsonify==0.5
